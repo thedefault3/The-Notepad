@@ -47,9 +47,3 @@ This project replicates the core features of Windows Notepad with additional enh
 
 ---
 
-## 🚀 How to Run
-
-1. **Install Python 3.x**  
-   Make sure Python is installed on your system. You can check with:
-   ```bash
-   python --version
